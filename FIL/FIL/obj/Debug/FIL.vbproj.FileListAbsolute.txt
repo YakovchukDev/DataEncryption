@@ -1,0 +1,59 @@
+C:\Users\Леново\Desktop\FIL\FIL\bin\Debug\FIL.exe.config
+C:\Users\Леново\Desktop\FIL\FIL\bin\Debug\FIL.exe
+C:\Users\Леново\Desktop\FIL\FIL\bin\Debug\FIL.pdb
+C:\Users\Леново\Desktop\FIL\FIL\bin\Debug\FIL.xml
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.vbprojAssemblyReference.cache
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.Form1.resources
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.Resources.resources
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.vbproj.GenerateResource.cache
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.vbproj.CoreCompileInputs.cache
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.exe
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.xml
+C:\Users\Леново\Desktop\FIL\FIL\obj\Debug\FIL.pdb
+D:\FIL\FIL\bin\Debug\FIL.exe.config
+D:\FIL\FIL\bin\Debug\FIL.exe
+D:\FIL\FIL\bin\Debug\FIL.pdb
+D:\FIL\FIL\bin\Debug\FIL.xml
+D:\FIL\FIL\obj\Debug\FIL.vbprojAssemblyReference.cache
+D:\FIL\FIL\obj\Debug\FIL.Form1.resources
+D:\FIL\FIL\obj\Debug\FIL.Resources.resources
+D:\FIL\FIL\obj\Debug\FIL.vbproj.GenerateResource.cache
+D:\FIL\FIL\obj\Debug\FIL.vbproj.CoreCompileInputs.cache
+D:\FIL\FIL\obj\Debug\FIL.exe
+D:\FIL\FIL\obj\Debug\FIL.xml
+D:\FIL\FIL\obj\Debug\FIL.pdb
+D:\Наукова\FIL\FIL\bin\Debug\FIL.exe.config
+D:\Наукова\FIL\FIL\bin\Debug\FIL.exe
+D:\Наукова\FIL\FIL\bin\Debug\FIL.pdb
+D:\Наукова\FIL\FIL\bin\Debug\FIL.xml
+D:\Наукова\FIL\FIL\obj\Debug\FIL.vbprojAssemblyReference.cache
+D:\Наукова\FIL\FIL\obj\Debug\FIL.Form1.resources
+D:\Наукова\FIL\FIL\obj\Debug\FIL.Resources.resources
+D:\Наукова\FIL\FIL\obj\Debug\FIL.vbproj.GenerateResource.cache
+D:\Наукова\FIL\FIL\obj\Debug\FIL.vbproj.CoreCompileInputs.cache
+D:\Наукова\FIL\FIL\obj\Debug\FIL.exe
+D:\Наукова\FIL\FIL\obj\Debug\FIL.xml
+D:\Наукова\FIL\FIL\obj\Debug\FIL.pdb
+E:\Яковчук Василь\АП\FIL\FIL\bin\Debug\FIL.exe.config
+E:\Яковчук Василь\АП\FIL\FIL\bin\Debug\FIL.exe
+E:\Яковчук Василь\АП\FIL\FIL\bin\Debug\FIL.pdb
+E:\Яковчук Василь\АП\FIL\FIL\bin\Debug\FIL.xml
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.vbprojAssemblyReference.cache
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.Form1.resources
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.Resources.resources
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.vbproj.GenerateResource.cache
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.vbproj.CoreCompileInputs.cache
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.exe
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.xml
+E:\Яковчук Василь\АП\FIL\FIL\obj\Debug\FIL.pdb
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\bin\Debug\FIL.exe.config
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\bin\Debug\FIL.exe
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\bin\Debug\FIL.pdb
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\bin\Debug\FIL.xml
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\obj\Debug\FIL.Form1.resources
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\obj\Debug\FIL.Resources.resources
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\obj\Debug\FIL.vbproj.GenerateResource.cache
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\obj\Debug\FIL.vbproj.CoreCompileInputs.cache
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\obj\Debug\FIL.exe
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\obj\Debug\FIL.xml
+F:\Програмирувание\Ширфрования (FIL)\FIL\FIL\obj\Debug\FIL.pdb

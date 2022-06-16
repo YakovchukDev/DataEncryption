@@ -1,0 +1,24 @@
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\bin\Debug\FIL-2.exe.config
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\bin\Debug\FIL-2.exe
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\bin\Debug\FIL-2.pdb
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\bin\Debug\FIL-2.xml
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL-2.vbprojAssemblyReference.cache
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL_2.Form1.resources
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL_2.Resources.resources
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL-2.vbproj.GenerateResource.cache
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL-2.vbproj.CoreCompileInputs.cache
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL-2.exe
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL-2.xml
+E:\тут все тільки моє а не твоє\FIL-2\FIL-2\obj\Debug\FIL-2.pdb
+D:\Наукова\FIL-2\FIL-2\bin\Debug\FIL-2.exe.config
+D:\Наукова\FIL-2\FIL-2\bin\Debug\FIL-2.exe
+D:\Наукова\FIL-2\FIL-2\bin\Debug\FIL-2.pdb
+D:\Наукова\FIL-2\FIL-2\bin\Debug\FIL-2.xml
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL-2.vbprojAssemblyReference.cache
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL_2.Form1.resources
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL_2.Resources.resources
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL-2.vbproj.GenerateResource.cache
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL-2.vbproj.CoreCompileInputs.cache
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL-2.exe
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL-2.xml
+D:\Наукова\FIL-2\FIL-2\obj\Debug\FIL-2.pdb
